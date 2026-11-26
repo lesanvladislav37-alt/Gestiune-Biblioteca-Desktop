@@ -13,7 +13,7 @@
 ## 🏗️ Schema Arhitecturii Modulare
 
 Aplicația este structurată pe 3 niveluri (arhitectură stratificată), separând interfața grafică de regulile de business și de stocarea datelor:
-
+```text
 +---------------------------------------------------------------+
 |                1. NIVELUL DE PREZENTARE (UI)                  |
 |  - Prezentare generală (Dashboard & statistici colecție)      |
